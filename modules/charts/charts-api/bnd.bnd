@@ -1,0 +1,10 @@
+Bundle-Name: charts-api
+Bundle-SymbolicName: com.dz100.samples.charts.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	com.dz100.samples.charts.exception,\
+	com.dz100.samples.charts.model,\
+	com.dz100.samples.charts.service,\
+	com.dz100.samples.charts.service.persistence
+-check: EXPORTS
+-includeresource: META-INF/service.xml=../charts-service/service.xml

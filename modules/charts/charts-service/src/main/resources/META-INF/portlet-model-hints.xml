@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<model-hints>
+	<model name="com.dz100.samples.charts.model.Chart">
+		<field name="name" type="String" />
+		<field name="year_2015" type="int" />
+		<field name="year_2016" type="int" />
+		<field name="year_2017" type="int" />
+	</model>
+</model-hints>
